@@ -10,3 +10,10 @@ For the parameters used, the ideal projectile achieved a range of $91.7\mathrm{m
 Euler's method was used to numerically solve the equations of motion for the drag models where they cannot be solved analytically. This method provides a simple approach when analytical solutions become difficult or unavailable, although its accuracy depends on the chosen time step. The project also considered terminal velocity and Reynolds number to connect the mathematical models with their physical interpretation.
 
 Overall, the project demonstrates how a simple analytical model can be extended using numerical methods to investigate increasingly realistic physical systems.
+
+References:
+https://discovery.ucl.ac.uk/id/eprint/10073838/1/Eames_Klettner_.pdf
+https://www.physics.udel.edu/~szalewic/teach/419/cm08ln_quad-drag.pdf
+https://en.wikipedia.org/wiki/Projectile_motion
+https://en.wikipedia.org/wiki/Reynolds_number
+https://en.wikipedia.org/wiki/Terminal_velocity
